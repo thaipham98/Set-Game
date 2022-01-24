@@ -35,7 +35,7 @@ java com.game.Test
 
 ## Run with customized test case
 
-1. Create a test case as .txt file and put it into the `Set-Game/src` directory.
+1. Create a test case as .txt file and put it into the `Set-Game/src` directory (I already provided the input.txt).
 2. Make sure you are still at src directory (parent directory).
 3. Run the program agaisnt the test case with below command: 
 
@@ -63,4 +63,4 @@ With Macs:
 cat input.txt | java com.game.Main
 ```
 
-
+## Have fun!!
