@@ -57,5 +57,10 @@ For example, I use Windows so I run with `input.txt`:
 type input.txt | java com.game.Main
 ```
 
+With Macs:
+
+```bash
+cat input.txt | java com.game.Main
+```
 
 
