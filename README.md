@@ -1,6 +1,6 @@
-# Set-Game
+# Set Game
 
-This is a Set-Game solver programmed with Java. 
+This is a Set Game solver programmed with Java. 
 
 The program’s output should consist of:
 1. A single line containing the number of possible SETs of three cards in the input.
