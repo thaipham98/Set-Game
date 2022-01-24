@@ -17,7 +17,7 @@ The program’s output should consist of:
 cd src
 ```
 
-##Compile program
+## Compile program
 
 First, we need to compile all .java files at `src/com/game`
 
@@ -25,7 +25,7 @@ First, we need to compile all .java files at `src/com/game`
 javac com/game/*.java
 ```
 
-##Test
+## Test
 
 Run the below command to test against 2 provided sample test cases
 
@@ -33,7 +33,7 @@ Run the below command to test against 2 provided sample test cases
 java com.game.Test
 ```
 
-##Run with customized test case
+## Run with customized test case
 
 1. Create a test case as .txt file and put it into the `Set-Game/src` directory.
 2. Make sure you are still at src directory (parent directory).
