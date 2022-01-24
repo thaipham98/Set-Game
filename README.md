@@ -17,7 +17,7 @@ The program’s output should consist of:
 cd src
 ```
 
-## Compile program
+## Compile the program
 
 First, we need to compile all .java files at `src/com/game`
 
