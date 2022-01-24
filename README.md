@@ -42,13 +42,13 @@ java com.game.Test
 For Windows Command Prompt:
 
 ```bash
-type [test folder name] | java com.game.Main
+type <TEST_FOLDER_NAME>.txt | java com.game.Main
 ```
 
 For Macs Terminal: 
 
 ```bash
-cat [test folder name] | java com.game.Main
+cat <TEST_FOLDER_NAME>.txt | java com.game.Main
 ```
 
 For example, I use Windows so I run with `input.txt`:
