@@ -9,7 +9,7 @@ The program’s output should consist of:
 
 ## Usage
 
-1. Clone this Github repo or download the zip file.
+1. Clone this Github repo or download the zip file at https://github.com/thaipham98/Set-Game.
 2. Open terminal of choice and cd into the Set-Game directory.
 3. Cd into source folder:
 
